@@ -1,2 +1,2 @@
 # Shard
-A programming language designed for the ЖИДОМАСОН ГИДРАВЛИКА
+A programming language designed for the ГАСТРОШИЗИС ГИДРАВЛИКА
